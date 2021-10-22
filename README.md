@@ -5,4 +5,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 2050 is closer than 1990
 
-[1]: linkedin.com/in/viplash4/
+[1]: https://www.linkedin.com/in/viplash4
