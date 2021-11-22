@@ -6,3 +6,5 @@
 - ⚡ Fun fact: 2050 is closer than 1990
 
 [1]: https://www.linkedin.com/in/viplash4
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viplash4&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
